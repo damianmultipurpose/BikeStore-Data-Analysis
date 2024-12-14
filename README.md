@@ -4,7 +4,7 @@
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
-- [Exploratory Data Analysis(EDA)](#explaratory-data-analysis)
+- [Exploratory Data Analysis(EDA)](#explaratorydataanalysisEDA)
 -  [Data Analysis](#data-analysis)
 -  [Results/Findings](#results-findings)
 -  [ Reccomendations](#reccomendations)
