@@ -1,4 +1,15 @@
 # BikeStore-Sales-Data-Analysis
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning/Preparation](#data-cleaning)
+- [Exploratory Data Analysis(EDA)](#explaratory-data-analysis)
+-  [Data Analysis](#data-analysis)
+-  [Results/Findings](#results-findings)
+-  [ Reccomendations](#reccomendations)
+-  [  Limitations](#limitations)
+-  [References](#references)
 ### Project Overview
 Create a comprehensive sales Dashboard for the Executive Team at a theoretical Bicycle reader company i work for from 2016-2018,The management team want to know-:
 - Revenue per region
@@ -71,7 +82,7 @@ GROUP BY
     sto.store_name,  -- Grouping by store name to compare sales performance across stores
     CONCAT(staf.first_name, ' ', staf.last_name)  -- Grouping by sales representative to track performance by staff;
 ```
-Results/Findings**
+### Results/Findings**
 The analysis results are summarised as follows:
     1.Top Revenue Drivers:
         Mountain Bikes and Road Bikes were the highest contributors to revenue.
@@ -83,7 +94,7 @@ The analysis results are summarised as follows:
         One store outperformed others, attributed to better staff performance and customer engagement.
     5.Product Categories:
         Accessories and apparel had lower revenue compared to bikes but showed steady growth over time.
-Reccomendations****
+### Reccomendations****
 1.Inventory Management:
 
     Increase stock for high-demand products like Mountain Bikes and Road Bikes during peak seasons.
@@ -103,7 +114,7 @@ Reccomendations****
 5.Diversification:
 
     Explore opportunities to expand product offerings in underperforming categories like accessories and apparel.
-Limitations****
+### Limitations****
 1.Sample Data:
 
     The analysis is based on fictional sales data, which may not accurately reflect real-world scenarios or business operations.
@@ -123,9 +134,12 @@ Limitations****
 5.Static Data:
 The data is static, and no real-time updates or dynamic queries were implemented in this analysis.
 
-REFERENCES****
+### References****
+
  [Work The Data Youtube Channel](https://www.youtube.com/watch?v=1pHYKdyRvrw&t=3748s)
+ 
  [@AlexTheAnalyst Youtube Channel](https://www.youtube.com/@AlexTheAnalyst)
+ 
  [CHATGPT.COM](https://chatgpt.com/c/675ca5f8-6bd8-8002-bfab-a677b20c933c)
 
 
