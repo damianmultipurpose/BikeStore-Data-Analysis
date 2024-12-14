@@ -1,6 +1,8 @@
-![9239](https://github.com/user-attachments/assets/bd130651-589f-4c8a-9307-eabfeb31b9db)# BikeStore-Sales-Data-Analysis
+
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Excell Pivot Table and Charts] (#excell-pivot-table-and-charts)
+- [Tableau Interactive Dashboard] (#tableau-interactive-dashboard)
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
@@ -23,7 +25,7 @@ Create a comprehensive sales Dashboard for the Executive Team at a theoretical B
 
 
 
-### Tableau Dashboard
+### Tableau Interactive Dashboard
 
 ![9208](https://github.com/user-attachments/assets/06ffa572-7ec2-4610-8e5b-a68511f81392)
 
