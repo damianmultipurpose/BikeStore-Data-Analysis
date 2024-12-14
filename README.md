@@ -12,6 +12,8 @@
 - [ Reccomendations](#reccomendations)
 - [  Limitations](#limitations)
 - [References](#references)
+
+---
 ### Project Overview
 Create a comprehensive sales Dashboard for the Executive Team at a theoretical Bicycle reader company i work for from 2016-2018,The management team want to know-:
 - Revenue per region
@@ -20,14 +22,20 @@ Create a comprehensive sales Dashboard for the Executive Team at a theoretical B
 - Revenue per Brand
 - A list of top customers and sales
 
+---
+
 ### Excell Pivot Table 
 ![9239](https://github.com/user-attachments/assets/a4ddbb19-7408-4165-b219-9844d3eb1269)
+
+---
 
 
 
 ### Tableau Interactive Dashboard
 
 ![9208](https://github.com/user-attachments/assets/06ffa572-7ec2-4610-8e5b-a68511f81392)
+
+---
 
 ### Data Sources
 - Sample Data: Fictional sales, product, and customer data generated for analysis.
@@ -36,12 +44,18 @@ Create a comprehensive sales Dashboard for the Executive Team at a theoretical B
 - Revenue per brand
 - A list of the top customers and sales using SQL scripts.
 
+---
+
 ### Tools Used
 - SQL Server-Data Exploration [Download here](https://instagram.com/damianmultipurpose)
 - Excell-Pivot tables and charts for interactive Sales Dashboards.  [Download here](https://instagram.com/damianmultipurpose)
 - Tableau-Interactive dashboards and data visualization.  [Download here](https://instagram.com/damianmultipurpose)
+
+---
 ### Data Cleaning/Preparation
 The data used in this project was clean and consistent throughout all stages of the analysis. No unwanted, redundant, or missing values were present. Data integrity was maintained when processed in SQL Server, imported into Excel, and further visualized in Tableau Public, ensuring accurate and reliable analysis.
+
+---
 ### Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions scuch as:
 
@@ -52,6 +66,8 @@ EDA involved exploring the sales data to answer key questions scuch as:
 3.Are there seasonal fluctuations in sales?
 
 4.Which store locations are performing the best?
+
+---
 ### Data Analysis
 Include some interesting codes/features worked with
 ```sql
@@ -96,6 +112,9 @@ GROUP BY
     sto.store_name,  -- Grouping by store name to compare sales performance across stores
     CONCAT(staf.first_name, ' ', staf.last_name)  -- Grouping by sales representative to track performance by staff;
 ```
+
+
+---
 ### Results/Findings**
 The analysis results are summarised as follows:
     1.Top Revenue Drivers:
@@ -108,6 +127,8 @@ The analysis results are summarised as follows:
         One store outperformed others, attributed to better staff performance and customer engagement.
     5.Product Categories:
         Accessories and apparel had lower revenue compared to bikes but showed steady growth over time.
+        
+        ---
 ### Reccomendations****
 1.Inventory Management:
 
@@ -128,6 +149,9 @@ The analysis results are summarised as follows:
 5.Diversification:
 
     Explore opportunities to expand product offerings in underperforming categories like accessories and apparel.
+
+
+---
 ### Limitations****
 1.Sample Data:
 
@@ -148,6 +172,8 @@ The analysis results are summarised as follows:
 5.Static Data:
 The data is static, and no real-time updates or dynamic queries were implemented in this analysis.
 
+---
+
 ### References****
 
  [Work The Data Youtube Channel](https://www.youtube.com/watch?v=1pHYKdyRvrw&t=3748s)
@@ -155,6 +181,8 @@ The data is static, and no real-time updates or dynamic queries were implemented
  [@AlexTheAnalyst Youtube Channel](https://www.youtube.com/@AlexTheAnalyst)
  
  [CHATGPT.COM](https://chatgpt.com/c/675ca5f8-6bd8-8002-bfab-a677b20c933c)
+
+
 
 
 
