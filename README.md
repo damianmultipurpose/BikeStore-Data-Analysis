@@ -4,12 +4,12 @@
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
-- - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
--  [Data Analysis](#data-analysis)
--  [Results/Findings](#resultsfindings)
--  [ Reccomendations](#reccomendations)
--  [  Limitations](#limitations)
--  [References](#references)
+- [Exploratory Data Analysis ](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#resultsfindings)
+- [ Reccomendations](#reccomendations)
+- [  Limitations](#limitations)
+- [References](#references)
 ### Project Overview
 Create a comprehensive sales Dashboard for the Executive Team at a theoretical Bicycle reader company i work for from 2016-2018,The management team want to know-:
 - Revenue per region
@@ -28,7 +28,7 @@ Create a comprehensive sales Dashboard for the Executive Team at a theoretical B
 - Tableau-Interactive dashboards and data visualization.  [Download here](https://instagram.com/damianmultipurpose)
 ### Data Cleaning/Preparation
 The data used in this project was clean and consistent throughout all stages of the analysis. No unwanted, redundant, or missing values were present. Data integrity was maintained when processed in SQL Server, imported into Excel, and further visualized in Tableau Public, ensuring accurate and reliable analysis.
-### Exploratory Data Analysis(EDA)
+### Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions scuch as:
 
 1.Which products are driving the most revenue?
