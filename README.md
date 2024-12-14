@@ -1,8 +1,8 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Excell Pivot Table and Charts] (#excell-pivot-table-and-charts)
-- [Tableau Interactive Dashboard] (#tableau-interactive-dashboard)
+- [Excel Pivot Table and Charts](#excel-pivot-table-and-charts)
+- [Tableau Interactive Dashboard](#tableau-interactive-dashboard)
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
