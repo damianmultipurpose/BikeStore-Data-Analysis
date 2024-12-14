@@ -1,4 +1,4 @@
-# BikeStore-Sales-Data-Analysis
+![9239](https://github.com/user-attachments/assets/bd130651-589f-4c8a-9307-eabfeb31b9db)# BikeStore-Sales-Data-Analysis
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
@@ -13,7 +13,19 @@
 ### Project Overview
 Create a comprehensive sales Dashboard for the Executive Team at a theoretical Bicycle reader company i work for from 2016-2018,The management team want to know-:
 - Revenue per region
-- Revenue per 
+- Revenue per store
+- Revenue per product category
+- Revenue per Brand
+- A list of top customers and sales
+
+### Excell Pivot Table and Charts
+![9239](https://github.com/user-attachments/assets/a4ddbb19-7408-4165-b219-9844d3eb1269)
+
+
+
+### Tableau Dashboard
+
+![9208](https://github.com/user-attachments/assets/06ffa572-7ec2-4610-8e5b-a68511f81392)
 
 ### Data Sources
 - Sample Data: Fictional sales, product, and customer data generated for analysis.
