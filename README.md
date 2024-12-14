@@ -1,7 +1,7 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Excel Pivot Table](#excel-pivot-table)
+- [Excell Pivot Table](#excel-pivot-table)
 - [Tableau Interactive Dashboard](#tableau-interactive-dashboard)
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
