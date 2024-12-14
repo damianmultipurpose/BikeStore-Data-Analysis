@@ -1,7 +1,7 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Excel Pivot Table and Charts](#excel-pivot-table-and-charts)
+- [Excel Pivot Table](#excel-pivot-table)
 - [Tableau Interactive Dashboard](#tableau-interactive-dashboard)
 - [Data Sources](#data-sources)
 - [Tools Used](#tools-used)
@@ -20,7 +20,7 @@ Create a comprehensive sales Dashboard for the Executive Team at a theoretical B
 - Revenue per Brand
 - A list of top customers and sales
 
-### Excell Pivot Table and Charts
+### Excell Pivot Table 
 ![9239](https://github.com/user-attachments/assets/a4ddbb19-7408-4165-b219-9844d3eb1269)
 
 
